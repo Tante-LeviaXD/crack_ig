@@ -1,3 +1,5 @@
+![Profile Picture](carbon.png)
+
 ## Cara Install dan Jalankan
 
 ```bash
