@@ -1,6 +1,5 @@
 ![Profile Picture](carbon.png)
 
-
 ```text
 Python      10 hrs 41 mins   █████████████░░░░░░░░░░░░   52.47 % 
 HTML        9 hrs 41 mins    ████████████░░░░░░░░░░░░░   47.53 % 
@@ -10,7 +9,8 @@ JavaScript  ████████░░░░░░░░░░░░░░�
 PHP         █████░░░░
 
 ## Cara Install dan Jalankan
-## JANGAN JADI HEKEL BETULAN YA 😂
+
+
 ```bash
 pkg update && pkg upgrade -y
 pkg install python git -y
