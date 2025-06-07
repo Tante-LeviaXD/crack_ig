@@ -11,3 +11,5 @@ pip install rich
 git clone https://github.com/Tante-LeviaXD/crack_ig
 cd crack_ig
 python insta_enc.py
+
+## GUNAKAN DENGAN BIJAK YA 😂😂 JANGAN JADI HEKEL HEKEL
